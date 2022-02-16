@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.page1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.page1 button{
+    padding: 10px;
+    margin: 10px 20px;
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.page1 h1{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: brown;
+}
+.page1 input{
+    margin: 10px;
+    padding: 10px;
+    border-color: brown;
+    border-radius: 5px;
+}
+.page1{
+    width: 100%;
+}
